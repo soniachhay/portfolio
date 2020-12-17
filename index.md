@@ -34,4 +34,5 @@ Here are some samples of my work. I hope you enjoy reading them! 📁 <br/><br/>
 - Ability to edit notes on echart + send email with those changes
 - Email button only appears on echart notes with email template to ensure only the info that should be sent, can be sent
 - ![Sample view:](image1.png)
+- Email with no changes made to template:
 - ![Sample view:](image2.jpg)
